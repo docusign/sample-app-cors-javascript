@@ -27,7 +27,7 @@ The CORS Sample App demonstrates the following:
   - Origin URLs: `{ PROTOCOL }://{ DOMAIN }`
   - Allowed HTTP Methods: GET, POST, PUT
 
-- Installed and configured [Node.js](https://nodejs.org/en/download)
+- Installed and configured [Node.js](https://nodejs.org/en/download) `22.23.4`, `24.22.1`, `26.12.1` or higher.
 - Installed and configured [Docker](https://www.docker.com/)
 
 ### Variables configuration
